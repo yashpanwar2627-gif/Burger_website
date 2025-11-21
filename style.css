@@ -580,10 +580,9 @@ footer a:hover {
         text-align: center;
     }
 
-    .hero-img {
-        height: 35vh;
-    }
-
+ .hero-img {
+    height: auto;
+ }
     .carousel-caption h1 {
         font-size: 29px;
     }

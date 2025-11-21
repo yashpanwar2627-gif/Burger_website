@@ -493,14 +493,6 @@ footer a:hover {
         text-align: left;
     }
 
-    .carousel-caption h1 {
-        font-size: 28px;
-    }
-
-    .carousel-caption p {
-        font-size: 15px;
-    }
-
     .card-img-overlay {
         align-items: center !important;
         text-align: center !important;
@@ -589,11 +581,11 @@ footer a:hover {
     }
 
     .hero-img {
-        height: 60vh;
+        height: 35vh;
     }
 
     .carousel-caption h1 {
-        font-size: 30px;
+        font-size: 29px;
     }
 
     .card img {
